@@ -4,7 +4,7 @@
 
 Some information about me
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Python/PHP/HTML
 
 - 🔭 I’m currently working on  вevelopment of your soft skill 
 - 📫 How to reach me: alfetisov7@gmail.com 
