@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aleksandr</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=craxti&label=Profile%20views&color=0e75b6&style=flat" alt="craxti" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=craxti" alt="craxti" /></a> </p>
 
 
@@ -57,7 +55,7 @@
 </div>  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=craxti&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=craxti&label=Profile%20views&color=0e75b6&style=flat" alt="craxti" /> </p>
 
 
 <img src="https://raw.githubusercontent.com/craxti/craxti/blob/output/snake.svg" alt="Snake animation" />
